@@ -1,7 +1,0 @@
-setup.py
-ailingual_ron.egg-info/PKG-INFO
-ailingual_ron.egg-info/SOURCES.txt
-ailingual_ron.egg-info/dependency_links.txt
-ailingual_ron.egg-info/entry_points.txt
-ailingual_ron.egg-info/not-zip-safe
-ailingual_ron.egg-info/top_level.txt
